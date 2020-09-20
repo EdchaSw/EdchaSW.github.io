@@ -1,4 +1,4 @@
-## Prueba de fetch para ver como funciona se supone que los pasos son los siguientes
+## Prueba de fetch para ver como funciona se supone que los pasos son los siguientes.
 
 1. alguien subio este archivo al repositorio remoto
 
